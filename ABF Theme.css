@@ -1153,7 +1153,7 @@ img.image { border-radius: 5px; }
 
 #pubs-footer { background: var(--main-color); }
 
-#pubs-container { background-image: url("https://imgur.com/RG03PyX.png") !important; transition: 0.3s all ease; background-size: cover !important; }
+#pubs-container { background-image: url("https://i.imgur.com/1MfzLoF.png") !important; transition: 0.3s all ease; background-size: cover !important; }
 
 #bd-customcss-attach-controls { border: 2px solid var(--main-color); border-top: 1px solid var(--main-color); border-radius: 4px; }
 
@@ -1377,7 +1377,7 @@ form.auth-form { background: rgba(0, 0, 0, 0.56); }
 
 .private-channels .channel .channel-game strong { font-weight: 700; color: var(--main-color); }
 
-.auth-background { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
+.auth-background { background-image: url("http://i.imgur.com/mWf54qi.jpg") !important; background-size: cover !important; }
 
 .auth-copyright { color: #FFFFFF; opacity: .8; font-weight: bold; border: 2px #fff solid; background: #000; border-radius: 3px; }
 
@@ -1481,7 +1481,7 @@ div#bd-customcss-innerpane { margin-top: 18px; width: 588px; margin-left: -34px;
 
 .guild-channels ul .channel-voice .channel-arrow:hover { background-color: var(--main-color); }
 
-.auth-tiling-bg { background-color: #2e3136; background-image: url("https://imgur.com/RG03PyX.png") !important; }
+.auth-tiling-bg { background-color: #2e3136; background-image: url("http://i.imgur.com/mWf54qi.jpg") !important; }
 
 .create-guild-container .action.create .action-icon, .create-guild-container .action.join .action-icon { -webkit-filter: invert(100%) hue-rotate(145deg); }
 
