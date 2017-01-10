@@ -2,7 +2,7 @@
 :root {--version-content: "Zerkrx";}
 
 body:after {
-    content: "ABF Theme Loaded";
+    content: "ABF Theme Loaded :)";
     z-index: 10000000000000000000000000;
     color: #fff;
     background: var(--main-color);
