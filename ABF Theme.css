@@ -2,7 +2,7 @@
 :root {--version-content: "Zerkrx";}
 
 body:after {
-    content: "Theme Creator: v" var(--version-content);
+    content: "ABF Theme Loaded";
     z-index: 10000000000000000000000000;
     color: #fff;
     background: var(--main-color);
@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Thanks for using Discord Reborn!";
+    content: "Theme By: " var(--version-content);
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
