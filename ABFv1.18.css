@@ -1517,7 +1517,7 @@ span[data-reactid=".0.5.$=1$UserSettingsModal.0.0.1.0.$LOCALE.0.1:1.0.1.$1.0"] {
 
 .guilds-wrapper .guilds .guild.selected:before { height: 30px; border-radius: 20px; background: var(--main-color); margin-top: -15px; }
 
-.guilds-wrapper .guilds .friends-icon { display:block; width: 40px; height: 40px; content:''; background-size: 25px 25px; background-image: url(https://i.imgur.com/dmhNosi.gif) !important; background-size:160%; background-repeat:no-repeat; background-position:center center; }
+.guilds-wrapper .guilds .friends-icon { display:block; width: 40px; height: 40px; content:''; background-size: 25px 25px; background-image: url(https://i.imgur.com/dmhNosi.gif) !important; background-size:175%; background-repeat:no-repeat; background-position:center center; }
 
 .guilds { padding: 18px 20px 85px 20px !important; }
 
