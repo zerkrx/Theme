@@ -398,6 +398,8 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small { background-colo
 
 .theme-dark .chat .title-wrap .topic a { color: var(--main-color); }
 
+.guilds .friends-icon:after { display:block; width:40px; height:40px; background-image: url(https://i.imgur.com/cm6mEXd.gif) !important; background-size:110%; background-repeat:no-repeat; background-position:top center; } 
+
 .guilds .friends-icon:hover { color: transparent; background-color: var(--main-color); }
 
 #autocomplete-popout .row.selected a, #autocomplete-popout .row:hover a { color: #D4D4D5; }
