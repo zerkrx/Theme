@@ -1,5 +1,5 @@
 /* Version Displayed */
-:root {--version-content: "1.11";}
+:root {--version-content: "1.12";}
 
 body:after {
     content: "ABF v"var(--version-content)" Loaded!";
@@ -75,11 +75,11 @@ body:before {
     }
 }
 
-.account:after {content: "All But Forgotten Theme By: "var(--version-content); color: rgba(255,255,255,0.2); font-size: 11px; font-weight: bold; position: absolute; bottom: 0; left: 149px; right: 0; opacity: 1;}
+.account:after {content: "All But Forgotten Theme By: Zerkrx!"; color: rgba(255,255,255,0.2); font-size: 11px; font-weight: bold; position: absolute; bottom: 0; left: 149px; right: 0; opacity: 1;}
 
 .rversion {display: inline-block;margin: 0px 0px 0px 0px;}
     
-.rversion:after {content: "All But Forgotten Theme By: "var(--version-content);display: block;font-size: 14px;font-weight: 700;color: #43B581;}
+.rversion:after {content: "All But Forgotten Theme By: Zerkrx!";display: block;font-size: 14px;font-weight: 700;color: #43B581;}
 
 .rthemedescription {display: block;width: 100%;margin-right: 5px;}
 
