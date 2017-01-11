@@ -1,8 +1,8 @@
 /* Version Displayed */
-:root {--version-content: "Zerkrx";}
+:root {--version-content: "1.1";}
 
 body:after {
-    content: "ABF Theme Loaded";
+    content: "ABF v"var(--version-content)" Loaded!";
     z-index: 10000000000000000000000000;
     color: #fff;
     background: var(--main-color);
@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Theme By: " var(--version-content);
+    content: "Theme By: Zerkrx");
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
