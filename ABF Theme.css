@@ -1,5 +1,5 @@
 /* Version Displayed */
-:root {--version-content: "1.1";}
+:root {--version-content: "1.11";}
 
 body:after {
     content: "ABF v"var(--version-content)" Loaded!";
@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Theme By: Zerkrx");
+    content: "Theme By: Zerkrx";
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
@@ -1517,7 +1517,7 @@ span[data-reactid=".0.5.$=1$UserSettingsModal.0.0.1.0.$LOCALE.0.1:1.0.1.$1.0"] {
 
 .guilds-wrapper .guilds .guild.selected:before { height: 30px; border-radius: 20px; background: var(--main-color); margin-top: -15px; }
 
-.guilds-wrapper .guilds .friends-icon { display:block; width: 40px; height: 40px; content:''; background-size: 25px 25px; background-image: url(https://i.imgur.com/cm6mEXd.gif) !important; background-size:110%; background-repeat:no-repeat; background-position:top center; }
+.guilds-wrapper .guilds .friends-icon { display:block; width: 40px; height: 40px; content:''; background-size: 25px 25px; background-image: url(https://i.imgur.com/lk7icuq.gif) !important; background-size:110%; background-repeat:no-repeat; background-position:top center; }
 
 .guilds { padding: 18px 20px 85px 20px !important; }
 
