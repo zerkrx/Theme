@@ -398,17 +398,6 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small { background-colo
 
 .theme-dark .chat .title-wrap .topic a { color: var(--main-color); }
 
-.guilds-wrapper .guilds .friends-icon:after {
-    display:block;
-    width:40px;
-    height:40px;
-    content:'';
-    background-image: url(https://i.imgur.com/cm6mEXd.gif) !important;
-    background-size:110%;
-    background-repeat:no-repeat;
-    background-position:top center;
-}
-
 .guilds .friends-icon:hover { color: transparent; background-color: var(--main-color); }
 
 #autocomplete-popout .row.selected a, #autocomplete-popout .row:hover a { color: #D4D4D5; }
@@ -1528,7 +1517,21 @@ span[data-reactid=".0.5.$=1$UserSettingsModal.0.0.1.0.$LOCALE.0.1:1.0.1.$1.0"] {
 
 .guilds-wrapper .guilds .guild.selected:before { height: 30px; border-radius: 20px; background: var(--main-color); margin-top: -15px; }
 
-.guilds-wrapper .guilds .friends-icon { width: 40px; height: 40px; background-size: 25px 25px; }
+.guilds-wrapper .guilds .friends-icon {
+    background-color: rgba(0,0,0,0.3) !important;
+    background-image: none !important;
+    padding-top:0px;
+
+.guilds-wrapper .guilds .friends-icon:after {
+    display:block;
+    width:40px;
+    height:40px;
+    content:'';
+    background-image: url(https://i.imgur.com/cm6mEXd.gif) !important;
+    background-size:110%;
+    background-repeat:no-repeat;
+    background-position:top center;
+}
 
 .guilds { padding: 18px 20px 85px 20px !important; }
 
