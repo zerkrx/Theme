@@ -1,5 +1,5 @@
 /* Version Displayed */
-:root {--version-content: "1.17";}
+:root {--version-content: "1.20";}
 
 body:after {
     content: "ABF v"var(--version-content)" Loaded!";
